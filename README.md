@@ -79,9 +79,6 @@ A Random Forest Classifier was trained after data preprocessing and evaluated us
 
 ### Confusion Matrix
 
-<img width="1081" height="570" alt="Screenshot 2026-07-02 181537" src="https://github.com/user-attachments/assets/ef20c0e2-dbc6-4583-8778-d900c334db8e" />
-<img width="996" height="688" alt="Screenshot 2026-07-02 181556" src="https://github.com/user-attachments/assets/f1fc24ab-be5c-463a-a7f1-bdf8c2fd7e97" />
-<img width="482" height="202" alt="Screenshot 2026-07-02 181624" src="https://github.com/user-attachments/assets/7a8e0977-7ee8-4faa-81ba-ec377cf730a8" />
 <img width="482" height="202" alt="image" src="https://github.com/user-attachments/assets/6794df47-e4e4-48a9-b1e0-0f184a348f0a" />
 
 ---
